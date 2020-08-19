@@ -2,8 +2,12 @@
 
 personal note
 
-Name | Description | etc.
-java | ok | kak
+Name | Description | Path | Link
+--- | --- | --- | --- |
+hoisting |  | kak | okay |
+wordCounter | counting words | kak | okay |
+youtube_time | calculate the whole video-time | kak | okay |
+
 
 <!--
 <p align='center'>
