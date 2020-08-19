@@ -1,9 +1,8 @@
 # TestBox
 
-personel note
+personal note
 
-name | description | etc.
---- | --- | ---
+Name | Description | etc.
 java | ok | kak
 
 <!--
