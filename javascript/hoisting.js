@@ -2,7 +2,7 @@
 function countWithVar () {
   for (var i = 0; i < 5; i++) {
     setTimeout(function () {
-        console.log(i);
+      console.log(i);
     }, 1000)
   }
 }
@@ -11,11 +11,11 @@ countWithVar();
 
 
 function countWithLet () {
-    for (let i = 0; i < 5; i++) {
-      setTimeout(function () {
-          console.log(i);
-      }, 1000)
-    }
+  for (let i = 0; i < 5; i++) {
+    setTimeout(function () {
+      console.log(i);
+    }, 1000)
   }
-  countWithLet();
-  //결과 0, 1, 2, 3, 4
+}
+countWithLet();
+// 결과 0, 1, 2, 3, 4
